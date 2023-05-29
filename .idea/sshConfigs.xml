@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="localhost" id="803e2e76-ccdc-4e87-8393-ffc26c12487c" port="22" nameFormat="DESCRIPTIVE" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="47.96.115.141" id="352c9949-6341-4b8b-bbca-63866fbe2c6a" port="22" customName="goods_web" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="goods_web" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

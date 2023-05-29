@@ -1,0 +1,32 @@
+#{
+#  "host": "110.40.153.208",
+#  "name":"goods_web",
+#  "port":8022,
+#  "tags":["goods_web","xx"],
+#  "goods_srv":{
+#    "name":"goods_srv"
+#  },
+#  "user_srv": {
+#    "name": "user_srv"
+#  },
+#  "jwt":{
+#    "key":"LiYh8sq%cV@bgN*I7l1c&dueOi5U*h45"
+#  },
+#  "consul": {
+#    "host":"110.40.153.208",
+#    "port":8500
+#  },
+#  "redis":{
+#    "host":"110.40.153.208",
+#    "port":6635
+#  }
+#}
+
+
+host: '47.96.115.141'
+port: 8848
+namespace: '60924dd5-946b-49c8-a895-1e3f0fdf58f9'
+user: 'nacos'
+password: 'nacos'
+dataid: 'goods_web.json'
+group: 'dev'
